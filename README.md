@@ -1,7 +1,12 @@
-# Gráficos com Python e Matplotlib
+## 📁 Estrutura do Projeto
+- `graficos_python.ipynb`: Notebook com análises de dados e gráficos
 
-Notebook desenvolvido no Google Colab como parte da formação em Ciência de Dados
-pelo programa Oracle Next Education (ONE).
+## 🛠️ Tecnologias
+- Python
+- Matplotlib
+- Google Colab
 
-O projeto explora dados de imigração da América do Sul para o Canadá,
-com foco em tratamento de dados, visualização e storytelling com dados.
+## 📌 Objetivos do Projeto
+- Tratamento de dados
+- Visualização com Matplotlib
+- Storytelling com dados
