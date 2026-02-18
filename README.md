@@ -10,3 +10,7 @@
 - Tratamento de dados
 - Visualização com Matplotlib
 - Storytelling com dados
+
+## 🔍 Como visualizar
+- Clique no notebook `.ipynb` para abrir no GitHub
+- Ou abra no Google Colab para editar e executar
